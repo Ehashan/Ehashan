@@ -7,16 +7,7 @@
 <h1 align="center">Hi 👋, I'm Eranda Hashan</h1>
   
 
-
-
-<h3 align="center">  Undergraduate | BSc(Hons) | Faculty of Information Technology | Horizon Campus   </h3>
-
 ---
-
-<h3 align="center">
-  <strong>How to reach me:</strong> <a href="mailto:erandahashan0103@gmail.com">erandahashan0103@gmail.com</a>
-</h3>
-
 
 
 <!--<p align="center">
@@ -26,11 +17,14 @@
 <table align="center">
 <tr>
 
-<td width="350px" align="left">
+<td width="450px" align="left">
 
 
 - 🌱 I’m currently learning **MERN Stack**   
 - 💬 Ask me about **Web Development**
+- 🧑‍🎓 I’m an Undergraduate at **Horizon Campus**
+- 📫 Reach me at:  <a>erandahashan0103@gmail.com</a>
+
 
 
   
@@ -90,3 +84,5 @@
 <h3 align="center">Support:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/scar2001"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scar2001" /></a></p>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif"  width="100%"  >
+
+
