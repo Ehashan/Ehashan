@@ -1,22 +1,62 @@
-## Hi there 👋
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=32FC20&size=38&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
+
+---
+
+
+<h1 align="center">Hi 👋, I'm Eranda Hashan</h1>
+
+
+
+<h3 align="center">  Undergraduate | BSc(Hons) | Faculty of Information Technology | Horizon Campus   </h3>
+
+---
+
+<h3 align="center">
+  <strong>How to reach me:</strong> <a href="mailto:erandahashan0103@gmail.com">erandahashan0103@gmail.com</a>
+</h3>
+
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+<table align="center">
+  <tr>
+    <td width="300px" align="left">
+
+- 🌱 I’m currently learning **OOP with Java**  
+- 🧑‍🎓 I’m an Undergraduate at **SLIIT**  
+- 💬 Ask me about **Web Development**  
+- 📫 How to reach me: **eranda@gmail.com**  
+- ⚡ Fun fact: **Call me KD**
+
+    </td>
+    <td>
+      <img align="right" width="70%" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+
 
 <h3 align="center">My Statistics:</h3>
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Ehashan&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Scar1109&theme=dark&hide_border=false" /> 
-</td>
-<td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Ehashan&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Ehashan&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" />
+      <br><br>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ehashan&theme=dark&hide_border=false" alt="GitHub Streak" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ehashan&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="Top Languages" />
+    </td>
+  </tr>
 </table>
+
 
 ---
 
@@ -35,5 +75,14 @@
 
 ---
 
+<!--Contribution Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ehashan&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+</div>
+
+---
+
 <h3 align="center">Support:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/scar2001"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scar2001" /></a></p>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif"  width="100%"  >
