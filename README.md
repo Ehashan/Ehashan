@@ -1,9 +1,11 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=32FC20&size=38&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
+<img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="100" height="100" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 ---
 
 
 <h1 align="center">Hi 👋, I'm Eranda Hashan</h1>
+  
 
 
 
@@ -18,20 +20,23 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Ehashan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <table align="center">
-  <tr>
-    <td width="300px" align="left">
+<tr>
+
+<td width="350px" align="left">
+
 
 - 🌱 I’m currently learning **MERN Stack**   
-- 💬 Ask me about **Web Development**  
--  
-- 
+- 💬 Ask me about **Web Development**
 
-    </td>
-    <td>
+
+  
+  
+</td>
+    <td width="450px" align="right" >
       <img align="right" width="70%" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
     </td>
   </tr>
