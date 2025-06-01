@@ -25,11 +25,10 @@
   <tr>
     <td width="300px" align="left">
 
-- 🌱 I’m currently learning **OOP with Java**  
-- 🧑‍🎓 I’m an Undergraduate at **SLIIT**  
+- 🌱 I’m currently learning **MERN Stack**   
 - 💬 Ask me about **Web Development**  
-- 📫 How to reach me: **eranda@gmail.com**  
-- ⚡ Fun fact: **Call me KD**
+-  
+- 
 
     </td>
     <td>
